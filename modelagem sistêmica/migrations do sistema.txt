@@ -1,0 +1,3 @@
+npx sequelize-cli model:generate --name NomeDaEntidade --attributes nomeDoAtributo:TIPODEDADO
+
+npx sequelize-cli model:generate --name NomeDaEntidade --attributes nomeDoAtributo:TIPODEDADO
